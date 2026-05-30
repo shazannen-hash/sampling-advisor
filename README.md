@@ -1,2 +1,2 @@
 # sampling-advisor
-Research sampling method advisor too
+Research sampling method advisor tool
